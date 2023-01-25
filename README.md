@@ -1,2 +1,3 @@
-# ML-Spec---Andrew-Ng-Coursera
 Machine Learning Specialization - Andrew Ng Coursera
+
+This repository includes work I've done while enrolled in this specialization.
