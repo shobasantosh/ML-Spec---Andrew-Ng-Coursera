@@ -1,6 +1,6 @@
 Machine Learning Specialization - Andrew Ng Coursera
 
-This repository includes lab work from the three courses. Note that the code is given and I have replicated the majority to learn and practice the material. 
+This repository includes lab work from three courses in this specialization. Note that the code is given and I have replicated the majority to learn and practice the material. 
 
 Course 1: Supervised Machine Learning: Regression and Classification
 
