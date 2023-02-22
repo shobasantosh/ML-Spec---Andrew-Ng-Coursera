@@ -4,6 +4,6 @@ This repository includes lab work from three courses in this specialization. Not
 
 Course 1: Supervised Machine Learning: Regression and Classification
 
-Course 2:
+Course 2: Advanced Learning Algorithms
 
 Course 3:
